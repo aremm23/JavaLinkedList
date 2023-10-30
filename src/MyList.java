@@ -1,3 +1,7 @@
+package src;
+
+import src.Node;
+
 public class MyList<T> {
     private Node node;
     private Node begin;

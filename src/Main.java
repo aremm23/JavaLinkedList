@@ -1,3 +1,7 @@
+package src;
+
+import src.MyList;
+
 public class Main {
     public static void main(String []args){
         MyList<String> a = new MyList<>();
